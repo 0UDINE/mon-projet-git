@@ -19,3 +19,4 @@
 18. git push -u origin main
 20. modification local
 ## Partie 4 : Collaboration : Pull Request
+23. la raison pour la quel on utilise une pull request , pourque le propriétaire du repository approuve notre contribution (review) , s'il est satisfait de notre travail, il peut l'ajouter au projet global (repository)
