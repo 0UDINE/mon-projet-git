@@ -17,3 +17,4 @@
 ## Partie 3 : Dépôt distant : push & pull
 17. git remote add origin https://github.com/0UDINE/mon-projet-git.git
 18. git push -u origin main
+20. modification local
